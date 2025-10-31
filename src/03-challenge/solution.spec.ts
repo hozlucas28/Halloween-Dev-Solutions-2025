@@ -1,6 +1,6 @@
 import fn from './solution'
 
-describe('Challenge 03: XXX', () => {
+describe('Challenge 03: return the dates where Michael Myers attacks', () => {
 	it('Test 01', () => {
 		const result = fn(2025)
 		const expected = ['2025-06-13', '2025-10-31']
