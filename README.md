@@ -46,14 +46,14 @@
     Challenges
 </h2>
 
-|     #     | Challenge                                                                  | Candies earned |        Description         |
-| :-------: | -------------------------------------------------------------------------- | :------------: | :------------------------: |
-|    01     | Reverse the words of the message                                           |     **18**     | [Show](./src/01-challenge) |
-|    02     | Count how many words can you form with the letters of the string           |     **18**     | [Show](./src/02-challenge) |
-|    03     | Returns the dates where Michael Myers attacks                              |     **18**     | [Show](./src/03-challenge) |
-|    04     | Implement binary search to find a target phone number                      |     **18**     | [Show](./src/04-challenge) |
-|    05     | Returns the minimum number of moves needed to reach the target combination |     **18**     | [Show](./src/05-challenge) |
-| **Total** |                                                                            |     **90**     |           **/**            |
+|     #     | Challenge                                                                  | Difficulty | Candies earned |        Description         |
+| :-------: | -------------------------------------------------------------------------- | :--------: | :------------: | :------------------------: |
+|    01     | Reverse the words of the message                                           |     🟢     |     **18**     | [Show](./src/01-challenge) |
+|    02     | Count how many words can you form with the letters of the string           |     🟢     |     **18**     | [Show](./src/02-challenge) |
+|    03     | Returns the dates where Michael Myers attacks                              |     🟢     |     **18**     | [Show](./src/03-challenge) |
+|    04     | Implement binary search to find a target phone number                      |     🟠     |     **18**     | [Show](./src/04-challenge) |
+|    05     | Returns the minimum number of moves needed to reach the target combination |     🟠     |     **18**     | [Show](./src/05-challenge) |
+| **Total** |                                                                            |   **/**    |     **90**     |           **/**            |
 
 <h2>
     Related
