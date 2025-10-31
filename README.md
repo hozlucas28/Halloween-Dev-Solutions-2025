@@ -50,7 +50,8 @@
 | :-------: | ---------------------------------------------------------------- | :------------: | :------------------------: |
 |    01     | Reverse the words of the message                                 |     **18**     | [Show](./src/01-challenge) |
 |    02     | Count how many words can you form with the letters of the string |     **18**     | [Show](./src/02-challenge) |
-| **Total** |                                                                  |     **36**     |           **/**            |
+|    03     | XXX                                                              |     **18**     | [Show](./src/03-challenge) |
+| **Total** |                                                                  |     **54**     |           **/**            |
 
 <h2>
     Related
