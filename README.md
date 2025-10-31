@@ -46,10 +46,11 @@
     Challenges
 </h2>
 
-|     #     | Challenge                        | Candies earned |        Description         |
-| :-------: | -------------------------------- | :------------: | :------------------------: |
-|    01     | Reverse the words of the message |     **18**     | [Show](./src/01-challenge) |
-| **Total** |                                  |     **18**     |           **/**            |
+|     #     | Challenge                                                        | Candies earned |        Description         |
+| :-------: | ---------------------------------------------------------------- | :------------: | :------------------------: |
+|    01     | Reverse the words of the message                                 |     **18**     | [Show](./src/01-challenge) |
+|    02     | Count how many words can you form with the letters of the string |     **18**     | [Show](./src/02-challenge) |
+| **Total** |                                                                  |     **36**     |           **/**            |
 
 <h2>
     Related
