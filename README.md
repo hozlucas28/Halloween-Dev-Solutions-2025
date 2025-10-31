@@ -53,7 +53,8 @@
 |    03     | Returns the dates where Michael Myers attacks                              |     🟢     |     **18**     | [Show](./src/03-challenge) |
 |    04     | Implement binary search to find a target phone number                      |     🟠     |     **18**     | [Show](./src/04-challenge) |
 |    05     | Returns the minimum number of moves needed to reach the target combination |     🟠     |     **18**     | [Show](./src/05-challenge) |
-| **Total** |                                                                            |   **/**    |     **90**     |           **/**            |
+|    06     | Return the last survivor of the roulette                                   |     🟠     |     **18**     | [Show](./src/06-challenge) |
+| **Total** |                                                                            |   **/**    |    **108**     |           **/**            |
 
 <h2>
     Related
