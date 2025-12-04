@@ -1,5 +1,5 @@
 <h1 align="center">
-    Halloween-dev Solutions [2025] 🎅🎄
+    Halloween-dev Solutions [2025]
 </h1>
 
 <h4 align="center">
@@ -67,17 +67,27 @@
     </ul>
     <ul>
         <li>
-            <a href="https://github.com/hozlucas28/AdventTS-Solutions-2023" target="_blank">Solutions of the Advent of TypeScript - 2023</a>
-        </li>
-    </ul>
-    <ul>
-        <li>
             <a href="https://github.com/hozlucas28/AdventJS-Solutions-2024" target="_blank">Solutions of the AdventJS - 2024</a>
         </li>
     </ul>
     <ul>
         <li>
+            <a href="https://github.com/hozlucas28/AdventJS-Solutions-2025" target="_blank">Solutions of the AdventJS - 2025</a>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a href="https://github.com/hozlucas28/AdventTS-Solutions-2023" target="_blank">Solutions of the Advent of TypeScript - 2023</a>
+        </li>
+    </ul>
+    <ul>
+        <li>
             <a href="https://github.com/hozlucas28/AdventTS-Solutions-2024" target="_blank">Solutions of the Advent of TypeScript - 2024</a>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a href="https://github.com/hozlucas28/HackerRank-Algorithms" target="_blank">Solutions to HackerRank algorithms</a>
         </li>
     </ul>
 </p>
