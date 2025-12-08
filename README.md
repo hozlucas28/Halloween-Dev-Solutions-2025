@@ -2,9 +2,9 @@
     Halloween-dev Solutions [2025]
 </h1>
 
-<h4 align="center">
-    Repository of <a href="https://www.halloween.dev/" target="_blank">Halloween-dev<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.
-</h4>
+<p align="center">
+    <strong>Repository of <a href="https://www.halloween.dev/" target="_blank">Halloween-dev<a> programming challenges by <a href="https://www.linkedin.com/in/midudev/" target="_blank">Midudev</a>.</strong>
+</p>
 
 <p align="center">
     <a href="#----summary">Summary</a> •
